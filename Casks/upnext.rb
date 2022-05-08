@@ -1,9 +1,9 @@
 # genreated by upnext-macos/relaese:build_homebrew_cask()
 cask 'upnext' do
-  version '2.0.0-alpha.5'
-  sha256 'f8b5ada56baec19b00380f42b193e39f68580d3eaea0d6f6221f0b80fc36e481'
+  version '2.0.0-alpha.6'
+  sha256 '095bec6184b3a58d7252d82fa859f738de6d70cef6ff167ab41dd21629bf3262'
 
-  url "https://upnextapp.netlify.app/versions/UpNext-2.0.0-alpha.5.zip"
+  url "https://upnextapp.netlify.app/versions/UpNext-2.0.0-alpha.6.zip"
   appcast "https://upnextapp.netlify.app/appcast.xml"
   name 'Up Next'
   homepage 'https://upnextapp.com/'
